@@ -1,0 +1,1 @@
+export { ExportedType } from './ExportedType';
